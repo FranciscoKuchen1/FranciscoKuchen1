@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Systems Engineering in UTN FRSF
+- 🔭 I’m currently working on some group projects for college
+
 <!--
 **FranciscoKuchen1/FranciscoKuchen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
