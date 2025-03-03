@@ -1,4 +1,4 @@
-## Hi! 👋 I'm just Fran
+## Hi! 👋 I'm Fran
 
 - 🌱 I’m currently learning Systems Engineering in UTN FRSF
 - 🔭 I’m currently working on some group projects for college
