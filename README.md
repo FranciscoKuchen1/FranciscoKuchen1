@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Fran
 
-- 🌱 I’m currently learning Systems Engineering in UTN FRSF
+- 🌱 I’m currently studying Systems Engineering in UTN FRSF
 - 🔭 I’m currently working on some group projects for college
 - 📼 I love movies and books
 
